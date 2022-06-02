@@ -1,0 +1,5 @@
+LDI 5
+STR 2
+ADD 2
+MUL 2
+STR 5
